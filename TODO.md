@@ -12,4 +12,6 @@
 - [x] Interface utilisateur Web moderne avec drag & drop, mise en évidence des tags C2PA et téléchargement ZIP
 - [x] Traduction complète de l'application en anglais (UI, tags, logs et formats)
 - [x] Suite de tests automatisée `test/run-tests.js`
+- [x] Initialisation Git, configuration `.gitignore` et licence MIT
+- [x] Publication du dépôt v1.0.0 public sur GitHub (`not-Kami/GhostMeta`)
 - [ ] Ajout d'options de configuration avancées (sélection manuelle des métadonnées à préserver)

@@ -17,11 +17,14 @@
   - `test/run-tests.js` : Suite complète de 7 tests unitaires couvrant tous les formats et le C2PA (7/7 validés avec succès).
   - UI Web (`index.html`, `css/styles.css`, `js/app.js`) : Interface moderne sombre avec drag-and-drop, badges spécifiques C2PA, téléchargement unitaire ou global en archive ZIP via JSZip.
 
-## 2026-11-01 — Internationalisation en anglais & analyse d'éradication C2PA / Métadonnées
+## 2026-11-01 — Internationalisation en anglais & Publication v1.0.0 sur GitHub
 
-- **Contexte** : Demande de passage de l'interface en anglais et questionnement sur le niveau de certitude quant à l'éradication de toute trace.
+- **Contexte** : Passage en anglais et publication officielle de la version 1.0.0 en public sur GitHub.
 - **Réalisations** :
-  - Traduction intégrale en anglais de l'interface utilisateur dans [`index.html`](file:///d:/Projects/GhostMeta/index.html) et [`js/app.js`](file:///d:/Projects/GhostMeta/js/app.js) (badges, boutons, barre de statut, messages de nettoyage et formats).
-  - Traduction des messages d'erreur et exceptions dans [`js/sanitizer/index.js`](file:///d:/Projects/GhostMeta/js/sanitizer/index.js).
-  - Validation complète des tests unitaires (`7/7 passed`).
-
+  - Traduction intégrale en anglais de l'interface utilisateur dans `index.html` et `js/app.js` (badges, boutons, barre de statut, messages de nettoyage et formats).
+  - Traduction des messages d'erreur et exceptions dans `js/sanitizer/index.js`.
+  - Rédaction d'un `README.md` complet en anglais avec badges, table des formats supportés, guide de démarrage et garanties de confidentialité.
+  - Ajout de la licence MIT (`LICENSE`) et du fichier `.gitignore`.
+  - Version bump à 1.0.0 dans `package.json`, `VERSION.md`, `PROGRESS.md` et `.atelier.json`.
+  - Initialisation du dépôt Git local sur la branche `main`.
+  - Création et publication du repository public : https://github.com/not-Kami/GhostMeta
