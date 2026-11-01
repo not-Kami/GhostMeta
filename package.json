@@ -1,0 +1,22 @@
+{
+  "name": "ghostmeta",
+  "version": "1.0.0",
+  "description": "Zero-trace metadata, EXIF, and C2PA AI provenance eraser for photos, videos, PNG, and audio",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/run-tests.js"
+  },
+  "keywords": [
+    "metadata-stripper",
+    "c2pa-eraser",
+    "content-credentials",
+    "ai-watermark-remover",
+    "exif-remover",
+    "privacy",
+    "zero-trace"
+  ],
+  "author": "Kami",
+  "license": "MIT"
+}

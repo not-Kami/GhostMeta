@@ -1,0 +1,49 @@
+{
+  "id": "ghostmeta",
+  "name": "GhostMeta",
+  "tagline": "Dossier local sur disque, pas encore tracké dans le Hub.",
+  "status": "active",
+  "progress": 20,
+  "origin": "local",
+  "visibility": "local",
+  "github": null,
+  "stack": [
+    "Standard"
+  ],
+  "lastActivity": "2026-10-31",
+  "nextUpdate": "Suivi initialisé dans The Hub.",
+  "notes": "Importé automatiquement.",
+  "modules": [],
+  "todos": [
+    {
+      "id": "ghostmeta-1",
+      "text": "Auditer le projet et définir les prochains objectifs",
+      "done": false,
+      "due": null
+    }
+  ],
+  "apps": [
+    {
+      "id": "app",
+      "label": "GhostMeta App",
+      "engine": "node",
+      "host": "127.0.0.1",
+      "port": 8780,
+      "cmd": "npm start",
+      "cwd": ""
+    }
+  ],
+  "kind": "app",
+  "runnable": true,
+  "holding": false,
+  "family": null,
+  "parentId": null,
+  "release": "0.1.0",
+  "changelog": "- **0.1.0** — 2026-10-27 — import",
+  "versioning": "semver",
+  "deploymentUrl": null,
+  "deployments": null,
+  "locked": null,
+  "version": 1,
+  "savedAt": "2026-11-01T18:38:22+00:00"
+}

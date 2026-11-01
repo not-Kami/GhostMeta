@@ -1,0 +1,12 @@
+---
+description: Lire JOURNAL.md avant de travailler ; l'écrire en fin de session
+alwaysApply: true
+---
+
+# Journal Atelier
+
+Avant toute modification : lire `JOURNAL.md`, `TODO.md` et `NEXT.md` **du dossier du projet** (pas d'un silo voisin).
+
+En fin de session : **ajouter** un bloc en bas de `JOURNAL.md` (ne pas régénérer le fichier). Template dans le journal, ou `python Hub/atelier.py session --id <projet>`.
+
+Suivre `AGENTS.md` 
